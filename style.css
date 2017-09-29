@@ -1,0 +1,36 @@
+body{
+    color: yellow
+
+    
+}
+.nav{
+        list-style: none;
+}
+.nav li{
+        display: inline;
+}
+ main{
+        width: 80%
+        margin: 0 auto;
+        border: 1px solid black;
+        padding: 10px;
+ }
+section h1{
+        width: 100%border: 1px slid black;
+        margin: 20px;
+}
+section h2{
+    text-aling: center;
+}
+section h3{
+    background: #FF0000
+}
+section h4{
+    background: #FF0000
+}
+section h2{
+    background: #FF0000
+}
+section h5{
+    background: #FF0000
+}
